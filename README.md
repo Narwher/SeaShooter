@@ -9,10 +9,10 @@ An Angry Birds clone using assets from [Super SquidGhostMan](https://github.com/
   * Additional blocks (rolling blocks)
   * Sea Background facade added
   * Textures given to blocks, projectile, slingshot
-  * Wind, or 'current', to add difficulty
+  * Randomly generated wind (current?) resistance to add difficulty
   * Changed clouds to bubbles
   * Added bgm from SSGM
-  * Changed projectile from ball to golden cat model
+  * Changed projectile from ball to golden cat model (?)
   * Solid blocks that can't be moved
   * Blocks placed at angles, for rolling blocks
   * Lives / Game Over system
